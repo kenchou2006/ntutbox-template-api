@@ -41,5 +41,5 @@ Cloudflare Worker serving school schedule templates as read-only JSON.
 
 ## Template Data Format
 
-Period IDs use the university convention: `0`-`10` for daytime, `A`-`D` for evening.
+Period IDs use the university convention: `1`-`10` for daytime, `A`-`D` for evening.
 Time format: 24-hour `HH:mm`. Array order = display order.
