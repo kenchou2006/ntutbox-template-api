@@ -4,7 +4,8 @@
  * Seed KV from data/templates/*.json
  *
  * Usage:
- *   node scripts/seed-kv.js                     # uses wrangler.toml default env
+ *   node scripts/seed-kv.js                     # seeds remote (production) KV
+ *   node scripts/seed-kv.js --preview            # seeds local/preview KV
  *   node scripts/seed-kv.js --env production     # specific environment
  *
  * Requires: wrangler CLI authenticated (via CLOUDFLARE_API_TOKEN in env)
@@ -19,9 +20,17 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const DATA_DIR = join(__dirname, "..", "data", "templates");
 const PROJECT_ROOT = join(__dirname, "..");
 
-const envArgs = process.argv.includes("--env")
-  ? ["--env", process.argv[process.argv.indexOf("--env") + 1]]
-  : [];
+const extraArgs = [];
+
+if (process.argv.includes("--preview")) {
+  extraArgs.push("--preview");
+} else {
+  extraArgs.push("--preview", "false");
+}
+
+if (process.argv.includes("--env")) {
+  extraArgs.push("--env", process.argv[process.argv.indexOf("--env") + 1]);
+}
 
 function wranglerPut(key, value) {
   const args = [
@@ -33,7 +42,7 @@ function wranglerPut(key, value) {
     "SCHEDULE_TEMPLATES",
     key,
     value,
-    ...envArgs,
+    ...extraArgs,
   ];
   console.log(`> npx ${args.join(" ").substring(0, 80)}...`);
   execFileSync("npx", args, { stdio: "inherit", cwd: PROJECT_ROOT });
