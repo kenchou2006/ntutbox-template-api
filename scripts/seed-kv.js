@@ -25,7 +25,7 @@ const extraArgs = [];
 if (process.argv.includes("--preview")) {
   extraArgs.push("--preview");
 } else {
-  extraArgs.push("--preview", "false");
+  extraArgs.push("--preview", "false", "--remote");
 }
 
 if (process.argv.includes("--env")) {
