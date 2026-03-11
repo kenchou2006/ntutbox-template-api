@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ntust",
+    "school": "國立臺灣科技大學",
+    "name": "臺科大 15 節制",
+    "periodCount": 15
+  },
+  {
+    "id": "ntu",
+    "school": "國立臺灣大學",
+    "name": "臺大 15 節制",
+    "periodCount": 15
+  },
+  {
+    "id": "ntnu",
+    "school": "國立臺灣師範大學",
+    "name": "臺師大 15 節制",
+    "periodCount": 15
+  }
+]

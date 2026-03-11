@@ -1,0 +1,22 @@
+{
+  "id": "ntnu",
+  "school": "國立臺灣師範大學",
+  "name": "臺師大 15 節制",
+  "periods": [
+    { "id": "0", "startTime": "07:10", "endTime": "08:00" },
+    { "id": "1", "startTime": "08:10", "endTime": "09:00" },
+    { "id": "2", "startTime": "09:10", "endTime": "10:00" },
+    { "id": "3", "startTime": "10:20", "endTime": "11:10" },
+    { "id": "4", "startTime": "11:20", "endTime": "12:10" },
+    { "id": "5", "startTime": "12:20", "endTime": "13:10" },
+    { "id": "6", "startTime": "13:20", "endTime": "14:10" },
+    { "id": "7", "startTime": "14:20", "endTime": "15:10" },
+    { "id": "8", "startTime": "15:30", "endTime": "16:20" },
+    { "id": "9", "startTime": "16:30", "endTime": "17:20" },
+    { "id": "10", "startTime": "17:30", "endTime": "18:20" },
+    { "id": "A", "startTime": "18:40", "endTime": "19:30" },
+    { "id": "B", "startTime": "19:35", "endTime": "20:25" },
+    { "id": "C", "startTime": "20:30", "endTime": "21:20" },
+    { "id": "D", "startTime": "21:25", "endTime": "22:15" }
+  ]
+}
