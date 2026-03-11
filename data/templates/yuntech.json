@@ -1,0 +1,77 @@
+{
+  "id": "yuntech",
+  "school": "國立雲林科技大學",
+  "name": "雲科大 14 節制",
+  "periods": [
+    {
+      "id": "A",
+      "startTime": "08:10",
+      "endTime": "09:00"
+    },
+    {
+      "id": "B",
+      "startTime": "09:10",
+      "endTime": "10:00"
+    },
+    {
+      "id": "C",
+      "startTime": "10:10",
+      "endTime": "11:00"
+    },
+    {
+      "id": "D",
+      "startTime": "11:10",
+      "endTime": "12:00"
+    },
+    {
+      "id": "Y",
+      "startTime": "12:10",
+      "endTime": "13:00"
+    },
+    {
+      "id": "E",
+      "startTime": "13:10",
+      "endTime": "14:00"
+    },
+    {
+      "id": "F",
+      "startTime": "14:10",
+      "endTime": "15:00"
+    },
+    {
+      "id": "G",
+      "startTime": "15:10",
+      "endTime": "16:00"
+    },
+    {
+      "id": "H",
+      "startTime": "16:10",
+      "endTime": "17:00"
+    },
+    {
+      "id": "Z",
+      "startTime": "17:10",
+      "endTime": "18:00"
+    },
+    {
+      "id": "I",
+      "startTime": "18:25",
+      "endTime": "19:15"
+    },
+    {
+      "id": "J",
+      "startTime": "19:20",
+      "endTime": "20:10"
+    },
+    {
+      "id": "K",
+      "startTime": "20:15",
+      "endTime": "21:05"
+    },
+    {
+      "id": "L",
+      "startTime": "21:10",
+      "endTime": "22:00"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "cmu-beigang",
+  "school": "中國醫藥大學",
+  "name": "中國醫 北港 11 節制",
+  "periods": [
+    {
+      "id": "1",
+      "startTime": "08:40",
+      "endTime": "09:30"
+    },
+    {
+      "id": "2",
+      "startTime": "09:35",
+      "endTime": "10:25"
+    },
+    {
+      "id": "3",
+      "startTime": "10:35",
+      "endTime": "11:25"
+    },
+    {
+      "id": "4",
+      "startTime": "11:30",
+      "endTime": "12:20"
+    },
+    {
+      "id": "N",
+      "startTime": "12:30",
+      "endTime": "13:20"
+    },
+    {
+      "id": "5",
+      "startTime": "13:30",
+      "endTime": "14:20"
+    },
+    {
+      "id": "6",
+      "startTime": "14:25",
+      "endTime": "15:15"
+    },
+    {
+      "id": "7",
+      "startTime": "15:25",
+      "endTime": "16:15"
+    },
+    {
+      "id": "8",
+      "startTime": "16:20",
+      "endTime": "17:10"
+    },
+    {
+      "id": "A",
+      "startTime": "17:40",
+      "endTime": "18:30"
+    },
+    {
+      "id": "B",
+      "startTime": "18:40",
+      "endTime": "19:30"
+    }
+  ]
+}

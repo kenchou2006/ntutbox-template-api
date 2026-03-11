@@ -1,7 +1,7 @@
 {
-  "id": "ntust",
-  "school": "國立臺灣科技大學",
-  "name": "臺科大 14 節制",
+  "id": "tcu",
+  "school": "慈濟大學",
+  "name": "慈濟大學 14 節制",
   "periods": [
     {
       "id": "1",
@@ -30,48 +30,48 @@
     },
     {
       "id": "6",
-      "startTime": "13:20",
-      "endTime": "14:10"
+      "startTime": "13:30",
+      "endTime": "14:20"
     },
     {
       "id": "7",
-      "startTime": "14:20",
-      "endTime": "15:10"
+      "startTime": "14:30",
+      "endTime": "15:20"
     },
     {
       "id": "8",
-      "startTime": "15:30",
-      "endTime": "16:20"
+      "startTime": "15:40",
+      "endTime": "16:30"
     },
     {
       "id": "9",
-      "startTime": "16:30",
-      "endTime": "17:20"
+      "startTime": "16:40",
+      "endTime": "17:30"
     },
     {
       "id": "10",
-      "startTime": "17:30",
-      "endTime": "18:20"
+      "startTime": "17:40",
+      "endTime": "18:30"
     },
     {
-      "id": "A",
-      "startTime": "18:25",
-      "endTime": "19:15"
+      "id": "11",
+      "startTime": "18:30",
+      "endTime": "19:20"
     },
     {
-      "id": "B",
-      "startTime": "19:20",
-      "endTime": "20:10"
+      "id": "12",
+      "startTime": "19:30",
+      "endTime": "20:20"
     },
     {
-      "id": "C",
-      "startTime": "20:15",
-      "endTime": "21:05"
+      "id": "13",
+      "startTime": "20:30",
+      "endTime": "21:20"
     },
     {
-      "id": "D",
-      "startTime": "21:10",
-      "endTime": "22:00"
+      "id": "14",
+      "startTime": "21:30",
+      "endTime": "22:20"
     }
   ]
 }

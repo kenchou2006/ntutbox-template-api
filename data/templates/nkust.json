@@ -1,0 +1,77 @@
+{
+  "id": "nkust",
+  "school": "國立高雄科技大學",
+  "name": "高科大 14 節制",
+  "periods": [
+    {
+      "id": "1",
+      "startTime": "08:10",
+      "endTime": "09:00"
+    },
+    {
+      "id": "2",
+      "startTime": "09:10",
+      "endTime": "10:00"
+    },
+    {
+      "id": "3",
+      "startTime": "10:10",
+      "endTime": "11:00"
+    },
+    {
+      "id": "4",
+      "startTime": "11:10",
+      "endTime": "12:00"
+    },
+    {
+      "id": "A",
+      "startTime": "12:10",
+      "endTime": "13:00"
+    },
+    {
+      "id": "5",
+      "startTime": "13:30",
+      "endTime": "14:20"
+    },
+    {
+      "id": "6",
+      "startTime": "14:30",
+      "endTime": "15:20"
+    },
+    {
+      "id": "7",
+      "startTime": "15:30",
+      "endTime": "16:20"
+    },
+    {
+      "id": "8",
+      "startTime": "16:30",
+      "endTime": "17:20"
+    },
+    {
+      "id": "9",
+      "startTime": "17:30",
+      "endTime": "18:20"
+    },
+    {
+      "id": "10",
+      "startTime": "18:30",
+      "endTime": "19:20"
+    },
+    {
+      "id": "11",
+      "startTime": "19:25",
+      "endTime": "20:15"
+    },
+    {
+      "id": "12",
+      "startTime": "20:20",
+      "endTime": "21:10"
+    },
+    {
+      "id": "13",
+      "startTime": "21:15",
+      "endTime": "22:05"
+    }
+  ]
+}

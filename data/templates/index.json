@@ -14,7 +14,187 @@
   {
     "id": "ntnu",
     "school": "國立臺灣師範大學",
-    "name": "臺師大 14 節制",
+    "name": "臺師大 校本部/公館 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "ntnu-linkou",
+    "school": "國立臺灣師範大學",
+    "name": "臺師大 林口校區 9 節制",
+    "periodCount": 9
+  },
+  {
+    "id": "ncku",
+    "school": "國立成功大學",
+    "name": "成大 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "nycu",
+    "school": "國立陽明交通大學",
+    "name": "陽交大 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "nthu",
+    "school": "國立清華大學",
+    "name": "清大 13 節制",
+    "periodCount": 13
+  },
+  {
+    "id": "cmu",
+    "school": "中國醫藥大學",
+    "name": "中國醫 英才/水湳 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "cmu-beigang",
+    "school": "中國醫藥大學",
+    "name": "中國醫 北港 11 節制",
+    "periodCount": 11
+  },
+  {
+    "id": "nsysu",
+    "school": "國立中山大學",
+    "name": "中山大學 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "tmu",
+    "school": "臺北醫學大學",
+    "name": "北醫 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "cgu",
+    "school": "長庚大學",
+    "name": "長庚大學 13 節制",
+    "periodCount": 13
+  },
+  {
+    "id": "ncu",
+    "school": "國立中央大學",
+    "name": "中央大學 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "mcut",
+    "school": "明志科技大學",
+    "name": "明志科大 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "nchu",
+    "school": "國立中興大學",
+    "name": "中興大學 13 節制",
+    "periodCount": 13
+  },
+  {
+    "id": "yuntech",
+    "school": "國立雲林科技大學",
+    "name": "雲科大 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "kmu",
+    "school": "高雄醫學大學",
+    "name": "高醫 13 節制",
+    "periodCount": 13
+  },
+  {
+    "id": "nccu",
+    "school": "國立政治大學",
+    "name": "政大 13 節制",
+    "periodCount": 13
+  },
+  {
+    "id": "au",
+    "school": "亞洲大學",
+    "name": "亞洲大學 16 節制",
+    "periodCount": 16
+  },
+  {
+    "id": "fcu",
+    "school": "逢甲大學",
+    "name": "逢甲大學 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "nkust",
+    "school": "國立高雄科技大學",
+    "name": "高科大 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "thu",
+    "school": "東海大學",
+    "name": "東海大學 13 節制",
+    "periodCount": 13
+  },
+  {
+    "id": "yzu",
+    "school": "元智大學",
+    "name": "元智大學 13 節制",
+    "periodCount": 13
+  },
+  {
+    "id": "ntou",
+    "school": "國立臺灣海洋大學",
+    "name": "海洋大學 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "tku",
+    "school": "淡江大學",
+    "name": "淡江大學 淡水/蘭陽 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "tku-taipei",
+    "school": "淡江大學",
+    "name": "淡江大學 台北校園 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "ccu",
+    "school": "國立中正大學",
+    "name": "中正大學 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "cycu",
+    "school": "中原大學",
+    "name": "中原大學 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "npust",
+    "school": "國立屏東科技大學",
+    "name": "屏科大 13 節制",
+    "periodCount": 13
+  },
+  {
+    "id": "fju",
+    "school": "輔仁大學",
+    "name": "輔大 日間 9 節制",
+    "periodCount": 9
+  },
+  {
+    "id": "fju-night",
+    "school": "輔仁大學",
+    "name": "輔大 含夜間 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "ndhu",
+    "school": "國立東華大學",
+    "name": "東華大學 14 節制",
+    "periodCount": 14
+  },
+  {
+    "id": "tcu",
+    "school": "慈濟大學",
+    "name": "慈濟大學 14 節制",
     "periodCount": 14
   }
 ]

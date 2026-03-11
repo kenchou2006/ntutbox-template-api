@@ -1,0 +1,52 @@
+{
+  "id": "fju",
+  "school": "輔仁大學",
+  "name": "輔大 日間 9 節制",
+  "periods": [
+    {
+      "id": "1",
+      "startTime": "08:10",
+      "endTime": "09:00"
+    },
+    {
+      "id": "2",
+      "startTime": "09:10",
+      "endTime": "10:00"
+    },
+    {
+      "id": "3",
+      "startTime": "10:10",
+      "endTime": "11:00"
+    },
+    {
+      "id": "4",
+      "startTime": "11:10",
+      "endTime": "12:00"
+    },
+    {
+      "id": "N",
+      "startTime": "12:40",
+      "endTime": "13:30"
+    },
+    {
+      "id": "5",
+      "startTime": "13:40",
+      "endTime": "14:30"
+    },
+    {
+      "id": "6",
+      "startTime": "14:40",
+      "endTime": "15:30"
+    },
+    {
+      "id": "7",
+      "startTime": "15:40",
+      "endTime": "16:30"
+    },
+    {
+      "id": "8",
+      "startTime": "16:40",
+      "endTime": "17:30"
+    }
+  ]
+}

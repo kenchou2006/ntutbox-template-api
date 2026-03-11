@@ -1,0 +1,72 @@
+{
+  "id": "npust",
+  "school": "國立屏東科技大學",
+  "name": "屏科大 13 節制",
+  "periods": [
+    {
+      "id": "1",
+      "startTime": "08:10",
+      "endTime": "09:00"
+    },
+    {
+      "id": "2",
+      "startTime": "09:10",
+      "endTime": "10:00"
+    },
+    {
+      "id": "3",
+      "startTime": "10:15",
+      "endTime": "11:05"
+    },
+    {
+      "id": "4",
+      "startTime": "11:10",
+      "endTime": "12:00"
+    },
+    {
+      "id": "C",
+      "startTime": "12:30",
+      "endTime": "13:20"
+    },
+    {
+      "id": "5",
+      "startTime": "13:30",
+      "endTime": "14:20"
+    },
+    {
+      "id": "6",
+      "startTime": "14:30",
+      "endTime": "15:20"
+    },
+    {
+      "id": "7",
+      "startTime": "15:30",
+      "endTime": "16:20"
+    },
+    {
+      "id": "8",
+      "startTime": "16:30",
+      "endTime": "17:20"
+    },
+    {
+      "id": "9",
+      "startTime": "18:00",
+      "endTime": "18:50"
+    },
+    {
+      "id": "10",
+      "startTime": "18:55",
+      "endTime": "19:45"
+    },
+    {
+      "id": "11",
+      "startTime": "19:50",
+      "endTime": "20:40"
+    },
+    {
+      "id": "12",
+      "startTime": "20:45",
+      "endTime": "21:35"
+    }
+  ]
+}
