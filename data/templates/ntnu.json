@@ -1,9 +1,8 @@
 {
   "id": "ntnu",
   "school": "國立臺灣師範大學",
-  "name": "臺師大 15 節制",
+  "name": "臺師大 14 節制",
   "periods": [
-    { "id": "0", "startTime": "07:10", "endTime": "08:00" },
     { "id": "1", "startTime": "08:10", "endTime": "09:00" },
     { "id": "2", "startTime": "09:10", "endTime": "10:00" },
     { "id": "3", "startTime": "10:20", "endTime": "11:10" },
