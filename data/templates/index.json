@@ -196,5 +196,11 @@
     "school": "慈濟大學",
     "name": "慈濟大學 14 節制",
     "periodCount": 14
+  },
+  {
+    "id": "shu",
+    "school": "世新大學",
+    "name": "世新大學 14 節制",
+    "periodCount": 14
   }
 ]
