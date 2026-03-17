@@ -220,5 +220,12 @@
     "school": "正修科技大學",
     "name": "正修科大 13 節制",
     "periodCount": 13
+  },
+    {
+    "id": "usc",
+    "school": "實踐大學",
+    "name": "實踐大學 14 節制",
+    "periodCount": 14
   }
+
 ]
